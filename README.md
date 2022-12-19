@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<div align="center">
+<div>
   
   <a href="https://github.com/francovinicius">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=francovinicius&show_icons=false&theme=nord&include_all_commits=true&count_private=true"/>
@@ -39,6 +39,8 @@
 
 <br>
 <br>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=francovinicius&theme=nord)](https://git.io/streak-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=120&section=footer"/>
 
