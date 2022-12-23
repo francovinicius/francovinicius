@@ -1,25 +1,39 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=120&section=header"/>
+# Olá, eu sou Vinicius 👨🏻‍💻
 
-## Olá, eu sou o Vinicius 👋
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://portfolio-nine-psi-30.vercel.app/assets/img/avatar-vinicius.svg" />
+    </td>
+    <td style="border: 0";>
+      <p>
+        💻 Desenvolvedor front-end. Posso desenvolver sites responsivos a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
+      </p>
+      <ul>
+        <li>
+          <span>🔭 Trabalhando atualmente com Front End</span>
+        </li>
+        <li>
+         <span>🌱 Estudando Javascript e React</span>
+        </li>
+        <li>
+          <span>📫 duartevini.dev@gmail.com</span>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🔭 Trabalhando atualmente com Front End
-- 🌱 Estudando Javascript e React
-- 📫 duartevini.dev@gmail.com
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=francovinicius&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francovinicius&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=francovinicius&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-<br>
-<br>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=francovinicius&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=francovinicius&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=francovinicius&theme=nord)](https://git.io/streak-stats)
-
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=francovinicius&layout=compact&show_icons=false&langs_count=7&theme=nord) |
+| :-: |
 
 
-<div>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francovinicius&layout=compact&show_icons=false&langs_count=7&theme=nord"/>
-                                                                                                                                                  
-</div>
-                                                                                                                                                  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/html5.svg">
