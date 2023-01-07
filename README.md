@@ -14,7 +14,7 @@
           <span>🔭 Trabalhando atualmente com Front End</span>
         </li>
         <li>
-         <span>🌱 Estudando Javascript, Typescript e React</span>
+         <span>🌱 Aprofundando meus conhecimentos em Bootstrap, Javascript, Typescript e React</span>
         </li>
         <li>
           <span>📫 duartevini.dev@gmail.com</span>
