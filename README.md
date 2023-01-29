@@ -19,6 +19,10 @@
         <li>
           <span>📫 duartevini.dev@gmail.com</span>
         </li>
+        <li>
+          💻
+        <a href="https://portfolio-nine-psi-30.vercel.app" target="_blank">Portfólio</a>
+        </li>
       </ul>
     </td>
   </tr>
