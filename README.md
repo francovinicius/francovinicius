@@ -1,4 +1,4 @@
-# Olá, eu sou Vinicius 👨🏻‍💻
+# Olá, eu sou Vinicius Duarte 👨🏻‍💻
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
