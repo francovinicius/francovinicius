@@ -20,7 +20,7 @@
           <span>📫 duartevini.dev@gmail.com</span>
         </li>
         <li>
-          💻 <a href="https://portfolio-nine-psi-30.vercel.app" target="_blank">Portfólio</a>
+          💻 <a href="https://viniciusduarte.vercel.app/" target="_blank">Portfólio</a>
         </li>
       </ul>
     </td>
@@ -40,7 +40,6 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="center" alt="Bootstrap" height="40" width="40" 
  src="https://img.icons8.com/color/512/bootstrap.png">  
