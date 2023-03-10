@@ -11,7 +11,7 @@
       </p>
       <ul>
         <li>
-          <span>🔭 Trabalhando atualmente com Front End.</span>
+          <span>🔭 Trabalhando atualmente com Desenvolvimento Web.</span>
         </li>
         <li>
          <span>🌱 Aprofundando meus conhecimentos em Javascript, Bootstrap e React.</span>
