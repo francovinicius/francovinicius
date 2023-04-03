@@ -7,7 +7,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Desenvolvedor front-end. Posso desenvolver sites responsivos a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
+        💻 Desenvolvedor Web. Posso desenvolver sites responsivos a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
       </p>
       <ul>
         <li>
