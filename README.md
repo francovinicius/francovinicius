@@ -14,7 +14,7 @@
           <span>🔭 Trabalhando atualmente com Desenvolvimento Web.</span>
         </li>
         <li>
-         <span>🌱 Aprofundando meus conhecimentos em Javascript, Bootstrap e React.JS.</span>
+         <span>🌱 Aprofundando meus conhecimentos em React.JS.</span>
         </li>
         <li>
           <span>📫 duartevini.dev@gmail.com</span>
