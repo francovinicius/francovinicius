@@ -7,14 +7,14 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Desenvolvedor Web Front-end. Posso desenvolver sites responsivos a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
+        💻 Desenvolvedor. Posso desenvolver sites responsivos e aplicações mobile a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
       </p>
       <ul>
         <li>
           <span>🔭 Trabalhando atualmente com Desenvolvimento Web.</span>
         </li>
         <li>
-         <span>🌱 Aprofundando meus conhecimentos em React.JS.</span>
+         <span>🌱 Algumas das ferramentas que utilizo são: Excel, JavaScript, ReactJs, Bootstrap, Kotlin.</span>
         </li>
         <li>
           <span>📫 duartevini.dev@gmail.com</span>
