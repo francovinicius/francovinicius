@@ -11,10 +11,10 @@
       </p>
       <ul>
         <li>
-          <span>🔭 Trabalhando atualmente com Desenvolvimento Web.</span>
+          <span>🔭 Trabalhando atualmente com Desenvolvimento Mobile.</span>
         </li>
         <li>
-         <span>🌱 Algumas das ferramentas que utilizo são: Excel, JavaScript, ReactJs, Bootstrap, Kotlin.</span>
+         <span>🌱 Algumas das ferramentas que utilizo são: Excel, JavaScript, ReactJs, Bootstrap, Kotlin, Flutter, Firebase.</span>
         </li>
         <li>
           <span>📫 duartevini.dev@gmail.com</span>
