@@ -7,11 +7,11 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Desenvolvedor. Posso desenvolver sites responsivos e aplicações mobile a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
+        💻 Desenvolvedor. Posso desenvolver aplicações Web/Mobile a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
       </p>
       <ul>
         <li>
-          <span>🔭 Trabalhando atualmente com Desenvolvimento Mobile.</span>
+          <span>🔭 Trabalhando atualmente com Desenvolvimento Web/Mobile.</span>
         </li>
         <li>
          <span>🌱 Algumas das ferramentas que utilizo são: Excel, JavaScript, ReactJs, Bootstrap, Kotlin, Flutter, Firebase.</span>
