@@ -38,17 +38,18 @@
 
 
 <div style="display: inline_block"><br>
-  
+
+  <img align="center" alt="android" height="29" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/flutter.svg">  
+  <img align="center" alt="android" height="29" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/firebase.svg"> 
+  <img align="center" alt="kt" height="25" width="37" src="https://github.com/railwayapp/devicons/blob/main/static/i/kotlin.svg">  
+  <img align="center" alt="android" height="29" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/android.svg">
+  <img align="center" alt="apple" height="32" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/apple.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  <img align="center" alt="Bootstrap" height="40" width="40" 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
- <img align="center" alt="Bootstrap" height="40" width="40" 
- src="https://img.icons8.com/color/512/bootstrap.png">  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="kt" height="25" width="37" src="https://github.com/railwayapp/devicons/blob/main/static/i/kotlin.svg">  
-  <img align="center" alt="android" height="29" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/android.svg"> 
-  <img align="center" alt="android" height="29" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/flutter.svg">  
-  <img align="center" alt="android" height="29" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/firebase.svg">  
+ src="https://img.icons8.com/color/512/bootstrap.png">   
  
 </div> 
 
