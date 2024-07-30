@@ -3,18 +3,17 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://portfolio-nine-psi-30.vercel.app/assets/img/avatar-vinicius.svg" />
-    </td>
-    <td style="border: 0";>
       <p>
-        💻 Desenvolvedor. Posso desenvolver aplicações Web/Mobile a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
+        💻 Desenvolvedor. Profissional com algumas experiências nas áreas de TI e Gestão;<br>
+         +17 Projetos finalizados (Web e Mobile).<br>
+         +2 anos de experiência na área de tecnologia.
       </p>
       <ul>
         <li>
           <span>🔭 Trabalhando atualmente com Desenvolvimento Web/Mobile.</span>
         </li>
         <li>
-         <span>🌱 Algumas das ferramentas que utilizo são: Excel, JavaScript, ReactJs, Bootstrap, Kotlin, Flutter, Firebase.</span>
+         <span>🌱 Desenvolvedor | Dart | Flutter | Kotlin | JavaScript | ReactJs | Bootstrap.</span>
         </li>
         <li>
           <span>📫 duartevini.dev@gmail.com</span>
