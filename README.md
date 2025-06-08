@@ -5,8 +5,6 @@
     <td style="border: 0";>
       <p>
         💻 Desenvolvedor. Profissional com algumas experiências nas áreas de TI e Gestão;<br>
-         +17 Projetos finalizados (Web e Mobile).<br>
-         +2 anos de experiência na área de tecnologia.
       </p>
       <ul>
         <li>
